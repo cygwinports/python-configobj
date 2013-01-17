@@ -1,6 +1,0 @@
-inherit distutils
-
-DESCRIPTION="Python module for handling configuration files"
-HOMEPAGE="http://www.voidspace.org.uk/python/configobj.html"
-
-DOCS="PKG-INFO"
