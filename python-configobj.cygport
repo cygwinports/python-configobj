@@ -11,4 +11,6 @@ with a straightforward programmer's interface and a simple syntax for config
 files."
 HOMEPAGE="https://github.com/DiffSK/configobj"
 
+ARCH=noarch
+
 DOCS="PKG-INFO"
