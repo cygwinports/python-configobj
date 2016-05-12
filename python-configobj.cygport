@@ -1,14 +1,14 @@
-inherit distutils
+inherit python-distutils
 
 NAME="python-configobj"
-VERSION=4.7.2
-RELEASE=2
+VERSION=5.0.6
+RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python module for handling config files"
 DESCRIPTION="ConfigObj is a simple but powerful config file reader and writer:
 an ini file round tripper. Its main feature is that it is very easy to use,
 with a straightforward programmer's interface and a simple syntax for config
 files."
-HOMEPAGE="http://www.voidspace.org.uk/python/configobj.html"
+HOMEPAGE="https://github.com/DiffSK/configobj"
 
 DOCS="PKG-INFO"
